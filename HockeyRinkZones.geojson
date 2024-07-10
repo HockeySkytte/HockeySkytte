@@ -24,7 +24,7 @@
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[57,20],[57,42.5],[41,42.5],[41,28],[57,20]]],"type":"Polygon"},"properties":{"id":"O23","ZONE":"O"},"id":"O23"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,-42.5],[41,-16],[25,-32],[25,-42.5],[41,-42.5]]],"type":"Polygon"},"properties":{"id":"O24","ZONE":"O"},"id":"O24"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,-16],[41,16],[25,32],[25,-32],[41,-16]]],"type":"Polygon"},"properties":{"id":"O25","ZONE":"O"},"id":"O25"},
-{"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,16],[41,42.5],[25,42.5],[25,32],[41,16]]],"type":"Polygon"},"properties":{"id":"O26","ZONE":"O"},"id":"O26"},
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,16],[41,42.5],[25,42.5],[25,24],[41,16]]],"type":"Polygon"},"properties":{"id":"O26","ZONE":"O"},"id":"O26"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[25,-42.5],[25,-17.5],[0,-17.5],[0,-42.5],[25,-42.5]]],"type":"Polygon"},"properties":{"id":"N01","ZONE":"N"},"id":"N01"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[25,-17.5],[25,17.5],[0,17.5],[0,-17.5],[25,-17.5]]],"type":"Polygon"},"properties":{"id":"N02","ZONE":"N"},"id":"N02"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[25,17.5],[25,42.5],[0,42.5],[0,17.5],[25,17.5]]],"type":"Polygon"},"properties":{"id":"N03","ZONE":"N"},"id":"N03"},
@@ -56,5 +56,5 @@
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[-57,20],[-57,42.5],[-41,42.5],[-41,28],[-57,20]]],"type":"Polygon"},"properties":{"id":"D23","ZONE":"O"},"id":"D23"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[-41,-42.5],[-41,-16],[-25,-32],[-25,-42.5],[-41,-42.5]]],"type":"Polygon"},"properties":{"id":"D24","ZONE":"O"},"id":"D24"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[-41,-16],[-41,16],[-25,32],[-25,-32],[-41,-16]]],"type":"Polygon"},"properties":{"id":"D25","ZONE":"O"},"id":"D25"},
-{"type":"Feature","properties":{},"geometry":{"coordinates":[[[-41,16],[-41,42.5],[-25,42.5],[-25,32],[-41,16]]],"type":"Polygon"},"properties":{"id":"D26","ZONE":"O"},"id":"D26"}
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[-41,16],[-41,42.5],[-25,42.5],[-25,24],[-41,16]]],"type":"Polygon"},"properties":{"id":"D26","ZONE":"O"},"id":"D26"}
 ]}
