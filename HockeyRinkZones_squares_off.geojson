@@ -19,5 +19,6 @@
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,-42.5],[41,-25.5],[25,-25.5],[25,-42.5],[41,-42.5]]],"type":"Polygon"},"properties":{"id":"O18","ZONE":"O"},"id":"O18"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,-25.5],[41,-8.5],[25,-8.5],[25,-25.5],[41,-25.5]]],"type":"Polygon"},"properties":{"id":"O19","ZONE":"O"},"id":"O19"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,-8.5],[41,8.5],[25,8.5],[25,-8.5],[41,-8.5]]],"type":"Polygon"},"properties":{"id":"O20","ZONE":"O"},"id":"O20"},
-{"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,25.5],[41,8.5],[25,8.5],[25,25.5],[41,25.5]]],"type":"Polygon"},"properties":{"id":"O21","ZONE":"O"},"id":"O21"}
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,25.5],[41,8.5],[25,8.5],[25,25.5],[41,25.5]]],"type":"Polygon"},"properties":{"id":"O21","ZONE":"O"},"id":"O21"},
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[41,42.5],[41,25.5],[25,25.5],[25,42.5],[41,42.5]]],"type":"Polygon"},"properties":{"id":"O22","ZONE":"O"},"id":"O22"}
 ]}
