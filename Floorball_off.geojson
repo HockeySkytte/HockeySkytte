@@ -6,7 +6,7 @@
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[16.5,-8.5],[16.5,-2.5],[13.15,-2.5],[13.15,-8.5],[16.5,-8.5]]],"type":"Polygon"},"properties":{"id":"O05","ZONE":"O"},"id":"O05"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[16.5,-2.5],[16.5,2.5],[13.15,2.5],[13.15,-2.5],[16.5,-2.5]]],"type":"Polygon"},"properties":{"id":"O06","ZONE":"O"},"id":"O06"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[16.5,2.5],[16.5,8.5],[13.15,8.5],[13.15,2.5],[16.5,2.5]]],"type":"Polygon"},"properties":{"id":"O07","ZONE":"O"},"id":"O07"},
-{"type":"Feature","properties":{},"geometry":{"coordinates":[[[16.5,-8.5],[16.5,-10],[6.45,-10],[6.45,-8.5],[16.5,-8.5]]],"type":"Polygon"},"properties":{"id":"O08","ZONE":"O"},"id":"O08"},
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[16.5,8.5],[16.5,10],[6.45,10],[6.45,8.5],[16.5,8.5]]],"type":"Polygon"},"properties":{"id":"O08","ZONE":"O"},"id":"O08"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[13.15,-8.5],[13.15,-2.5],[9.8,-2.5],[9.8,-8.5],[13.15,-8.5]]],"type":"Polygon"},"properties":{"id":"O09","ZONE":"O"},"id":"O09"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[13.15,-2.5],[13.15,2.5],[9.8,2.5],[9.8,-2.5],[13.15,-2.5]]],"type":"Polygon"},"properties":{"id":"O10","ZONE":"O"},"id":"O10"},
 {"type":"Feature","properties":{},"geometry":{"coordinates":[[[13.15,2.5],[13.15,8.5],[9.8,8.5],[9.8,2.5],[13.15,2.5]]],"type":"Polygon"},"properties":{"id":"O11","ZONE":"O"},"id":"O11"},
