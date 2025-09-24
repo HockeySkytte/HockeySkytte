@@ -293,11 +293,10 @@
     { "type": "Feature", "properties": { "id": "O16", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[8.5,3.5],[8.5,0],[4.5,0],[4.5,4.5],[8.5,3.5]]] } },
     { "type": "Feature", "properties": { "id": "O17", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[8.5,7],[8.5,3.5],[4.5,4.5],[4.5,8],[8.5,7]]] } },
     { "type": "Feature", "properties": { "id": "O18", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[8.5,10],[8.5,7],[4.5,8],[4.5,10],[8.5,10]]] } },
-    { "type": "Feature", "properties": { "id": "O19", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[0,0],[0,0.1],[0.1,0.1],[0.1,0],[0,0]]] } },
-    { "type": "Feature", "properties": { "id": "O20", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[0,0],[0,0.1],[0.1,0.1],[0.1,0],[0,0]]] } },
-    { "type": "Feature", "properties": { "id": "O21", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[0,0],[0,0.1],[0.1,0.1],[0.1,0],[0,0]]] } },
-    { "type": "Feature", "properties": { "id": "O22", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[0,0],[0,0.1],[0.1,0.1],[0.1,0],[0,0]]] } },
-    { "type": "Feature", "properties": { "id": "O23", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[0,0],[0,0.1],[0.1,0.1],[0.1,0],[0,0]]] } },
+    { "type": "Feature", "properties": { "id": "O19", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[4.5,-4.5],[4.5,-10],[0,-10],[0,-5.5],[4.5,-4.5]]] } },
+    { "type": "Feature", "properties": { "id": "O20", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[4.5,0],[4.5,-4.5],[0,-5.5],[0,0],[4.5,0]]] } },
+    { "type": "Feature", "properties": { "id": "O21", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[4.5,4.5],[4.5,0],[0,0],[0,5.5],[4.5,4.5]]] } },
+    { "type": "Feature", "properties": { "id": "O22", "side": "O" }, "geometry": { "type": "Polygon", "coordinates": [[[4.5,10],[4.5,4.5],[0,5.5],[0,10],[4.5,10]]] } },
 
     {
       "type": "Feature",
